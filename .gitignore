@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.lastbuildstate
+*.tlog
+*.idb
+*.log
+*.obj
+*.pdb
+*.db
+*.opendb
+/x64/Release/BNFtest.iobj
+/x64/Release/BNFtest.ipdb
+*.suo
