@@ -13,3 +13,5 @@
 /x64/Release/BNFtest.iobj
 /x64/Release/BNFtest.ipdb
 *.suo
+/Release/BNFtest.iobj
+/Release/BNFtest.ipdb
